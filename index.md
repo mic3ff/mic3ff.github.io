@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to my all systems thinking and complexity blog
 
 You can use the [editor on GitHub](https://github.com/mic3ff/mic3ff.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
