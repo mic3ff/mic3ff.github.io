@@ -1,4 +1,8 @@
-## Welcome to all systems thinking and complexity blog
+## Systems thinking and complexity blog
+
+# Alternative Complexity/Systems Thinking course:
+- [Understanding Complexity](https://www.thegreatcourses.com/courses/understanding-complexity.html)
+- [BPTK-Py: System Dynamics and Agent-based Modeling In Python](https://bptk.transentis.com/en/latest/index.html)
 
 You can use the [editor on GitHub](https://github.com/mic3ff/mic3ff.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
