@@ -1,8 +1,14 @@
 ## Systems thinking and complexity blog
 
-# Alternative Complexity/Systems Thinking course:
+### Alternative Complexity/Systems Thinking course:
+#### Online courses:
 - [Understanding Complexity](https://www.thegreatcourses.com/courses/understanding-complexity.html)
+
+#### Python:
 - [BPTK-Py: System Dynamics and Agent-based Modeling In Python](https://bptk.transentis.com/en/latest/index.html)
+- [mesa](https://mesa.readthedocs.io/en/stable/)
+#### Live Courses/Events:
+- - [2021 System Dynamics Summer School July 20-23, 2021](https://systemdynamics.org/summer-school/)
 
 You can use the [editor on GitHub](https://github.com/mic3ff/mic3ff.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
