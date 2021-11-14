@@ -3,7 +3,7 @@ layout: post
 title:  "Quotes from Thinking in Systems by Donella  H. Meadows"
 author: Miniek
 categories: [ systems thinking ]
-image: assets/images/12.jpg
+image: assets/images/meadows.jpg
 featured: true
 hidden: false
 ---
